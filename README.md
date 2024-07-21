@@ -1,8 +1,6 @@
 <h1>Hi, I'm Kyle! <a href="https://www.linkedin.com/in/kiet-nguyen-2oo1/">Data Analyst</a> at <a href="https://www.starbucksglobalacademy.com/">Starbucks Global Academy</a></h1>
 
-<h2>👨‍💻 Data Analyst Projects:</h2>
-
-<h2>👨‍💻 Data Science Projects:</h2>
+<h2>👨‍💻 Data Science/Analyst Projects:</h2>
 
 <h2>✨ Certifications: </h2>
 
