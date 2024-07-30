@@ -5,6 +5,9 @@
 - <b>BCG Data Science Job Simulation - PowerCo Customer Churn Prediction (Readme file available)</b>
   - [PowerCo_BCG](https://github.com/KietKat/PowerCo_BCG/)
 
+- <b>Bank Marketing Analysis - Customer Subscription Prediction (Readme file available)</b>
+  - [Bank Marketing Analysis](https://github.com/KietKat/Bank_Marketing/)
+
 <h2>✨ Certifications: </h2>
 
 - Azure Data Scientist Associate, June 2024
