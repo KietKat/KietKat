@@ -28,7 +28,11 @@
   - [Coursera Algorithm](https://github.com/KietKat/Coursera-Algorithm)
 - <b>Machine Learning</b>
   - [UC Berkeley Self-learning Pacman](https://github.com/KietKat/Pacman-AI)
-  
+
+<h2> Scripts </h2>
+
+- [Scripts list](https://github.com/KietKat/Scripts)  
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][Linkedin]
