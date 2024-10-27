@@ -1,5 +1,12 @@
 <h1>Hi, I'm Kyle! <a href="https://www.linkedin.com/in/kiet-nguyen-2oo1/">Data Analyst</a> at <a href="https://www.starbucksglobalacademy.com/">Starbucks Global Academy</a></h1>
 
+<h2>NEW/ONGOING PROJECT</h2>
+
+- <b>Capstone Project - Build Machine Learning models that predict an economic recession using socioeconomic indicators</b>
+
+- <b>Got2Go - A mobile application that makes fake calls to users under different caller names to help get out of awkward social situations</b>
+  - Leverage the AWS data ingestion pipeline (Lambda, EventBridge, DynanmoDB), which is highly available.
+
 <h2>👨‍🏫 Data Science/Analyst Projects:</h2>
 
 - <b>BCG Data Science Job Simulation - PowerCo Customer Churn Prediction (Readme file available)</b>
@@ -19,6 +26,7 @@
 
 <h2>✨ Certifications: </h2>
 
+- AWS Data Engineer Associate, October 2024
 - Azure Data Scientist Associate, June 2024
 - Google Professional Data Analytics, September 2022
 
