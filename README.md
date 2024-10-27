@@ -5,7 +5,7 @@
 - <b>Capstone Project - Build Machine Learning models that predict an economic recession using socioeconomic indicators</b>
 
 - <b>Got2Go - A mobile application that makes fake calls to users under different caller names to help get out of awkward social situations</b>
-  - Leverage the AWS data ingestion pipeline (Lambda, EventBridge, DynanmoDB), which is highly available.
+  - Leverage the AWS services such as (Lambda, EventBridge, DynanmoDB) to build a highly available data ingestion pipeline and event-driven architecture.
 
 <h2>👨‍🏫 Data Science/Analyst Projects:</h2>
 
