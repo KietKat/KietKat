@@ -5,7 +5,7 @@
 - <b>Capstone Project (DEC 2024)- Build Machine Learning models that predict an economic recession using socioeconomic indicators</B>
 
 - <b>Fine-tuning Gemma2 model for English-to-Vietnamese translation (JAN 2025) - Unlock Global Communication with Gemma</b>
-  - [Kaggle Competition Link]https://www.kaggle.com/competitions/gemma-language-tuning
+  - [Kaggle Competition Link](https://www.kaggle.com/competitions/gemma-language-tuning)
   - Annotating parallel corpus
 
 - <b>Got2Go (PLANNING/IDEATION) - A mobile application that makes fake calls to users under different caller names to help get out of awkward social situations</b>
