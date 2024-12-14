@@ -2,8 +2,6 @@
 
 <h2>NEW/ONGOING PROJECT</h2>
 
-- <b>Capstone Project (DEC 2024)- Build Machine Learning models that predict an economic recession using socioeconomic indicators</B>
-
 - <b>Fine-tuning Gemma2 model for English-to-Vietnamese translation (JAN 2025) - Unlock Global Communication with Gemma</b>
   - [Kaggle Competition Link](https://www.kaggle.com/competitions/gemma-language-tuning)
   - [Annotating parallel corpus](https://github.com/KietKat/Viet-Eng-Parallel-Corpus)
@@ -12,6 +10,10 @@
   - Leverage the AWS services such as (Lambda, EventBridge, DynanmoDB) to build a highly available data ingestion pipeline and event-driven architecture.
 
 <h2>👨‍🏫 Data Science/Analyst Projects:</h2>
+
+- <b>Capstone Project - Build Machine Learning models that predict an economic recession using socioeconomic indicators</B>
+  - [pdf link](https://github.com/KietKat/DAT490/blob/master/Dat490-4.pdf)
+  - We use crime, s&500 stock price, unemployment rate, etc... as major indicators
 
 - <b>BCG Data Science Job Simulation - PowerCo Customer Churn Prediction (Readme file available)</b>
   - [PowerCo_BCG](https://github.com/KietKat/PowerCo_BCG/)
