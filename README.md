@@ -2,14 +2,14 @@
 
 <h2>NEW/ONGOING PROJECT</h2>
 
-- <b>Fine-tuning Gemma2 model for English-to-Vietnamese translation (JAN 2025) - Unlock Global Communication with Gemma</b>
-  - [Kaggle Competition Link](https://www.kaggle.com/competitions/gemma-language-tuning)
-  - [Annotating parallel corpus](https://github.com/KietKat/Viet-Eng-Parallel-Corpus)
-
 - <b>Got2Go (PLANNING/IDEATION) - A mobile application that makes fake calls to users under different caller names to help get out of awkward social situations</b>
   - Leverage the AWS services such as (Lambda, EventBridge, DynanmoDB) to build a highly available data ingestion pipeline and event-driven architecture.
 
 <h2>👨‍🏫 Data Science/Analyst Projects:</h2>
+
+- <b>Fine-tuning Gemma2 model for English-to-Vietnamese translation (JAN 2025) - Unlock Global Communication with Gemma</b>
+  - [Kaggle Competition Notebook](https://www.kaggle.com/code/kietng/vietnamese-english-translator)
+  - [Annotated parallel corpus](https://github.com/KietKat/Viet-Eng-Parallel-Corpus)
 
 - <b>Capstone Project - Build Machine Learning models that predict an economic recession using socioeconomic indicators</B>
   - [pdf link](https://github.com/KietKat/DAT490/blob/master/Dat490-4.pdf)
