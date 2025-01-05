@@ -4,26 +4,19 @@
 
 - <b>Got2Go (PLANNING/IDEATION) - A mobile application that makes fake calls to users under different caller names to help get out of awkward social situations</b>
   - Leverage the AWS services such as (Lambda, EventBridge, DynanmoDB) to build a highly available data ingestion pipeline and event-driven architecture.
+ 
+<h2>📋 Data Analyst Customer projects (Removed Important Information): </h2>
 
-<h2>👨‍🏫 Data Science/Analyst Projects:</h2>
+- <b>PowerCo Customer Churn Prediction (Readme file available)</b>
+  - [PowerCo_BCG](https://github.com/KietKat/PowerCo_BCG/)
+    
+- [Starbucks Global Academy Global Dashboards](https://public.tableau.com/app/profile/kiet.nguyen7930/viz/Executive_Summary_17179763644170/MonthlyExecutiveSummary)
+
+<h2>👨‍🏫 Machine Learning Projects:</h2>
 
 - <b>Fine-tuning Gemma2 model for English-to-Vietnamese translation (JAN 2025) - Unlock Global Communication with Gemma</b>
   - [Kaggle Competition Notebook](https://www.kaggle.com/code/kietng/vietnamese-english-translator)
   - [Annotated parallel corpus](https://github.com/KietKat/Viet-Eng-Parallel-Corpus)
-
-- <b>Capstone Project - Build Machine Learning models that predict an economic recession using socioeconomic indicators</B>
-  - [pdf link](https://github.com/KietKat/DAT490/blob/master/Dat490-4.pdf)
-  - We use crime, s&500 stock price, unemployment rate, etc... as major indicators
-
-- <b>BCG Data Science Job Simulation - PowerCo Customer Churn Prediction (Readme file available)</b>
-  - [PowerCo_BCG](https://github.com/KietKat/PowerCo_BCG/)
-
-- <b>Bank Marketing Analysis - Customer Subscription Prediction (Readme file available)</b>
-  - [Bank Marketing Analysis](https://github.com/KietKat/Bank_Marketing/)
-
-<h2>📋 Tableau: </h2>
-
-- [Executive Summary](https://public.tableau.com/app/profile/kiet.nguyen7930/viz/Executive_Summary_17179763644170/MonthlyExecutiveSummary)
 
 <h2>👨‍💻 Software Engineering Project: </h2>
 
@@ -37,6 +30,12 @@
 - Google Professional Data Analytics, September 2022
 
 <h2>📚 Learning Projects: </h2>
+
+- <b>Capstone Project - Build Machine Learning models that predict an economic recession using socioeconomic indicators</B>
+  - [pdf link](https://github.com/KietKat/DAT490/blob/master/Dat490-4.pdf)
+
+- <b>Bank Marketing Analysis - Customer Subscription Prediction (Readme file available)</b>
+  - [Bank Marketing Analysis](https://github.com/KietKat/Bank_Marketing/)
 
 - <b>Algorithms</b>
   - [Coursera Algorithm](https://github.com/KietKat/Coursera-Algorithm)
